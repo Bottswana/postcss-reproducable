@@ -1,5 +1,0 @@
-/* This line causes the error */
-@import "../node_modules/@clr/ui/clr-ui-dark.min.css" screen and (prefers-color-scheme: dark);
-
-/* This import succeeds without problem */
-/*@import "../node_modules/@clr/ui/clr-ui-dark.min.css";*/
