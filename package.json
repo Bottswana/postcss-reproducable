@@ -1,0 +1,20 @@
+{
+  "name": "postcss-test",
+  "version": "0.0.0",
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@clr/ui": "^5.0.1",
+    "css-loader": "^5.0.2",
+    "postcss": "^8.2.6",
+    "postcss-import": "^14.0.0",
+    "postcss-loader": "^5.0.0",
+    "postcss-preset-env": "^6.7.0",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
